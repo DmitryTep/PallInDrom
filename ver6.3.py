@@ -29,9 +29,9 @@ for v in a[2:8]:
 print(b)
 
 c = input('введите, желаете ли продолжить?(y/n)')
-if  c == 'y':
+if c == 'y':
     l = input('рассчитать среднее или производную?(s/p)')
-    if  l == 'p':
+    if l == 'p':
         print(proiz())
     else:
         print(ser())

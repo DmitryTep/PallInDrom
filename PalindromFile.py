@@ -9,7 +9,7 @@ t = str(input('vvedite stroku: '))
 if palindrom(t) == True:
     print('Паліндром!')
 else:
-    print('Не паліндром!!!!')
+    print('Не паліндром!')
 
 
 
